@@ -27,3 +27,10 @@ This project is an IoT-based home automation system that enables users to contro
 
 ## Outcome
 Successfully implemented a voice-controlled home automation system for controlling electrical appliances remotely.
+## Project Images
+
+### Hardware Setup
+![Hardware Setup](Hardware_setup_jpg.jpeg)
+
+### Fan Control
+![Fan Control](Fan control.jpg.jpeg)
